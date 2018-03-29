@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Tender</string>
+<string name="country_prompt">Choose a type of cuisine</string>
+<string name="action_settings">Settings</string>
+
+    <string-array name="country_arrays">
+    <item>American</item>
+    <item>Chinese</item>
+    <item>Mexican</item>
+</string-array>
+
+<string name="meal_prompt">Choose a meal type</string>
+
+<string-array name="meal_array">
+    <item>Lunch</item>
+    <item>Dinner</item>
+</string-array>
+
+</resources>
